@@ -1,0 +1,6 @@
+﻿  сессия_карпа_подарки.cpp
+C:\Users\Oleg-Nai\Desktop\сессия_карпа_подарки\сессия_карпа_подарки\сессия_карпа_подарки.cpp(71,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Oleg-Nai\Desktop\сессия_карпа_подарки\сессия_карпа_подарки\сессия_карпа_подарки.cpp(145,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Oleg-Nai\Desktop\сессия_карпа_подарки\сессия_карпа_подарки\сессия_карпа_подарки.cpp(270,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oleg-Nai\Desktop\сессия_карпа_подарки\сессия_карпа_подарки\сессия_карпа_подарки.cpp(278): warning C4715: 'FSum': not all control paths return a value
+  сессия_карпа_подарки.vcxproj -> C:\Users\Oleg-Nai\Desktop\сессия_карпа_подарки\Debug\сессия_карпа_подарки.exe
